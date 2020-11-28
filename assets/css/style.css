@@ -1,0 +1,85 @@
+
+body, p.card-text{
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #373A3C;
+}
+h1{
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color:#373A3C;
+}
+.linea{
+    border: 1px solid black;
+}
+.line2{
+    border: 1px solid black;
+}
+
+.rico{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 37px;
+    color: #ffffff;
+}
+
+h6{
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color:#373A3C;
+}
+
+.carousel-indicators {
+    top: 200px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+.boton{
+    border-color: #dddddd;
+    border-width: 2px;
+}
+p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #373A3C;
+}
+
+h2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color:#373A3C;
+    text-align: center;
+}
+h3{
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color:#fff;
+}
+h4{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: white
+}
+span{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #fff;
+}
+h5{
+    font-family: 'Cabin', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    color:#373A3C;
+}
